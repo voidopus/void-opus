@@ -1,0 +1,8 @@
+config.py
+entries.json
+__pycache__/
+*.pyc
+*.backup
+venv/
+get_entries.py
+*.pypython3
